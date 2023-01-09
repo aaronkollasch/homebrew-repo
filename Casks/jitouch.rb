@@ -1,6 +1,6 @@
 cask "jitouch" do
-  version "2.82.0"
-  sha256 "c5fae23a0a9b8d658ae8be6d45f08d59741b518830c65c6bcc5ad04f000ce6bd"
+  version "2.82.1"
+  sha256 "3f5194a4da6fe19d17c843fa8a876131f7878905dcbb2e1d740d34d286d740c4"
 
   url "https://github.com/aaronkollasch/jitouch/releases/download/v#{version}/Install-Jitouch.pkg"
   name "jitouch"
